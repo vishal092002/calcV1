@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d091d00b-281f-486e-a394-d67ab38b83b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+    <list default="true" id="d091d00b-281f-486e-a394-d67ab38b83b3" name="Changes" comment="Added travis.yml File">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +52,16 @@
       <updated>1635301167058</updated>
       <workItem from="1635301169280" duration="16000" />
       <workItem from="1635301199799" duration="2577000" />
-      <workItem from="1635341731777" duration="359000" />
+      <workItem from="1635341731777" duration="990000" />
     </task>
+    <task id="LOCAL-00001" summary="Added travis.yml File">
+      <created>1635342123718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635342123718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +78,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added travis.yml File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added travis.yml File" />
   </component>
 </project>
